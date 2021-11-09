@@ -1,2 +1,5 @@
 # hello-world
-hello-world repository
+Hello World!
+
+I am Gabriel Sotelo.
+This is CSE232 stuff.
